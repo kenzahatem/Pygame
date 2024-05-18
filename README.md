@@ -1,5 +1,9 @@
-A Little game to start 
+# A Little game to start 
 
 
 To git it  : 
-``https://github.com/kenzahatem/Pygame Pygame-Kenza``
+```
+https://github.com/kenzahatem/Pygame Pygame-Kenza
+```
+
+### PS : No cheat
