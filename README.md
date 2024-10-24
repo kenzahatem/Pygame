@@ -1,4 +1,4 @@
-# A Little game to start 
+# game
 
 
 To git it  : 
